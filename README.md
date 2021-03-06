@@ -1,6 +1,6 @@
 ###
 
-<img src="https://raw.githubusercontent.com/wiki/unclearness/ugu/images/renderer/front_color.png" height="180"> <img src="https://camo.githubusercontent.com/ee9054b0d8ca548c9a9474f807ba9ac8761e588b/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f756e636c6561726e6573732f6e616e6f706d2f696d616765732f6e6e662e676966" height="180"> <img src="https://raw.githubusercontent.com/wiki/unclearness/vacancy/images/how_it_works.gif" height="180">
+<img src="https://raw.githubusercontent.com/wiki/unclearness/ugu/images/renderer/bunny_realtime.gif" height="180"> <img src="https://camo.githubusercontent.com/ee9054b0d8ca548c9a9474f807ba9ac8761e588b/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f756e636c6561726e6573732f6e616e6f706d2f696d616765732f6e6e662e676966" height="180"> <img src="https://raw.githubusercontent.com/wiki/unclearness/vacancy/images/how_it_works.gif" height="180">
 
 <!--
 **unclearness/unclearness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
